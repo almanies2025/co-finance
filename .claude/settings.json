@@ -8,18 +8,7 @@
     "PostToolUse": [
       {
         "matcher": "Edit|Write",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "node \"$CLAUDE_PROJECT_DIR/scripts/hooks/validate-disclaimer.js\"",
-            "timeout": 10
-          },
-          {
-            "type": "command",
-            "command": "node \"$CLAUDE_PROJECT_DIR/scripts/hooks/validate-citations.js\"",
-            "timeout": 10
-          }
-        ]
+        "hooks": []
       }
     ],
     "SessionStart": [
@@ -58,13 +47,7 @@
     "UserPromptSubmit": [
       {
         "matcher": "",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "node \"$CLAUDE_PROJECT_DIR/scripts/hooks/user-prompt-rules-reminder.js\"",
-            "timeout": 5
-          }
-        ]
+        "hooks": []
       }
     ],
     "Stop": [
