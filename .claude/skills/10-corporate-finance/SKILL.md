@@ -1,7 +1,7 @@
 ---
 name: corporate-finance
 description: "Corporate finance reference covering capital structure, WACC, M&A, capital budgeting, dividend policy, and working capital management. Use when asking about 'capital structure', 'WACC', 'cost of capital', 'Modigliani-Miller', 'leverage', 'mergers', 'acquisitions', 'M&A', 'NPV', 'IRR', 'capital budgeting', 'dividend policy', 'payout ratio', 'working capital', 'cash conversion cycle', 'trade-off theory', 'pecking order', 'cost of equity', 'cost of debt', 'tax shield', 'synergy', or 'real options'."
-triggers: ['corporate finance', 'capital structure', 'WACC', 'cost of capital', 'Modigliani-Miller', 'leverage', 'mergers and acquisitions', 'M&A', 'NPV', 'IRR', 'capital budgeting', 'dividend policy', 'working capital', 'cash conversion cycle', 'pecking order', 'tax shield']
+when_to_use: ['corporate finance', 'capital structure', 'WACC', 'cost of capital', 'Modigliani-Miller', 'leverage', 'mergers and acquisitions', 'M&A', 'NPV', 'IRR', 'capital budgeting', 'dividend policy', 'working capital', 'cash conversion cycle', 'pecking order', 'tax shield']
 ---
 
 # Corporate Finance

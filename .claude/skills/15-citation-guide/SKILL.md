@@ -1,7 +1,7 @@
 ---
 name: citation-guide
 description: "Citation guide for finance students covering APA 7th edition, Chicago/Turabian, Harvard style, and common citation mistakes. Use when asking about 'APA', 'APA 7th', 'Chicago style', 'Turabian', 'Harvard referencing', 'citation', 'reference list', 'bibliography', 'in-text citation', 'footnote citation', 'DOI', 'citation format', 'referencing style', or 'how to cite'."
-triggers: ['citation', 'APA', 'APA 7th', 'Chicago style', 'Turabian', 'Harvard referencing', 'reference list', 'bibliography', 'in-text citation', 'footnote', 'DOI', 'how to cite', 'referencing']
+when_to_use: ['citation', 'APA', 'APA 7th', 'Chicago style', 'Turabian', 'Harvard referencing', 'reference list', 'bibliography', 'in-text citation', 'footnote', 'DOI', 'how to cite', 'referencing']
 ---
 
 # Citation Guide

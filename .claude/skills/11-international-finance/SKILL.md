@@ -1,7 +1,7 @@
 ---
 name: international-finance
 description: "International finance reference covering exchange rates, balance of payments, parity conditions, currency crises, and the international monetary system. Use when asking about 'exchange rates', 'forex', 'balance of payments', 'current account', 'PPP', 'purchasing power parity', 'interest rate parity', 'IRP', 'currency crisis', 'Bretton Woods', 'IMF', 'dollarization', 'SDR', 'forward rate', 'cross rate', 'real exchange rate', 'twin deficits', 'speculative attack', or 'international monetary system'."
-triggers: ['international finance', 'exchange rates', 'balance of payments', 'PPP', 'purchasing power parity', 'interest rate parity', 'IRP', 'currency crisis', 'Bretton Woods', 'IMF', 'forward rate', 'cross rate', 'current account', 'capital account', 'dollarization', 'speculative attack']
+when_to_use: ['international finance', 'exchange rates', 'balance of payments', 'PPP', 'purchasing power parity', 'interest rate parity', 'IRP', 'currency crisis', 'Bretton Woods', 'IMF', 'forward rate', 'cross rate', 'current account', 'capital account', 'dollarization', 'speculative attack']
 ---
 
 # International Finance

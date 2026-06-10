@@ -1,7 +1,7 @@
 ---
 name: case-study-framework
 description: "Case study framework reference for finance students covering the Harvard case method, analytical frameworks, DCF walkthrough, and case writeup templates. Use when asking about 'case study', 'case analysis', 'Harvard case method', 'Porter Five Forces', 'SWOT', 'PESTEL', 'BCG matrix', 'DCF walkthrough', 'case writeup', 'case competition', 'situation analysis', 'problem identification', 'case recommendation', 'value chain', or 'case discussion'."
-triggers: ['case study', 'case analysis', 'Harvard case method', 'Porter Five Forces', 'SWOT', 'PESTEL', 'BCG matrix', 'DCF walkthrough', 'case writeup', 'case competition', 'value chain', 'situation analysis']
+when_to_use: ['case study', 'case analysis', 'Harvard case method', 'Porter Five Forces', 'SWOT', 'PESTEL', 'BCG matrix', 'DCF walkthrough', 'case writeup', 'case competition', 'value chain', 'situation analysis']
 ---
 
 # Case Study Framework
