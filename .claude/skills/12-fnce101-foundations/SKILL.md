@@ -1,7 +1,7 @@
 ---
 name: fnce101-foundations
 description: "Introductory finance foundations covering time value of money, stock valuation, bond valuation, financial statements, and risk-return concepts. Use when asking about 'time value of money', 'present value', 'future value', 'annuity', 'perpetuity', 'DDM', 'dividend discount model', 'P/E ratio', 'bond pricing', 'YTM', 'duration', 'financial statements', 'income statement', 'balance sheet', 'cash flow statement', 'ratio analysis', 'CAPM', 'beta', 'Sharpe ratio', 'standard deviation', 'expected return', 'security market line', or 'capital market line'."
-triggers: ['FNCE101', 'intro finance', 'time value of money', 'present value', 'future value', 'annuity', 'perpetuity', 'DDM', 'dividend discount model', 'bond pricing', 'YTM', 'financial statements', 'ratio analysis', 'CAPM', 'beta', 'Sharpe ratio', 'risk and return', 'security market line']
+when_to_use: ['FNCE101', 'intro finance', 'time value of money', 'present value', 'future value', 'annuity', 'perpetuity', 'DDM', 'dividend discount model', 'bond pricing', 'YTM', 'financial statements', 'ratio analysis', 'CAPM', 'beta', 'Sharpe ratio', 'risk and return', 'security market line']
 ---
 
 # FNCE101 Foundations

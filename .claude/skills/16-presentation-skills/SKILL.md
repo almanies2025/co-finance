@@ -1,7 +1,7 @@
 ---
 name: presentation-skills
 description: "Presentation skills reference for finance students covering slide design, data visualization, storytelling, and delivery techniques. Use when asking about 'presentation', 'slide design', 'data visualization', 'financial charts', 'storytelling', 'delivery tips', 'Q&A', 'assertion-evidence', 'waterfall chart', 'time series chart', 'executive summary', 'situation-complication-resolution', 'presentation anxiety', or 'professional presence'."
-triggers: ['presentation', 'slide design', 'data visualization', 'financial charts', 'storytelling', 'delivery tips', 'assertion-evidence', 'waterfall chart', 'executive summary', 'presentation anxiety', 'Q&A handling']
+when_to_use: ['presentation', 'slide design', 'data visualization', 'financial charts', 'storytelling', 'delivery tips', 'assertion-evidence', 'waterfall chart', 'executive summary', 'presentation anxiety', 'Q&A handling']
 ---
 
 # Presentation Skills
