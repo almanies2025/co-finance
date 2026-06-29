@@ -1,7 +1,7 @@
 ---
 name: formula-reference
 description: "Formula reference sheets for finance students covering FNCE101, corporate finance, international finance, financial markets and investments, and statistics. Use when asking about 'formula sheet', 'formula reference', 'TVM formulas', 'CAPM formula', 'WACC formula', 'Black-Scholes formula', 'bond duration formula', 'NPV formula', 'IRR formula', 'PPP formula', 'IRP formula', 'regression formula', 'variance formula', 'covariance formula', or 'finance formulas'."
-triggers: ['formula sheet', 'formula reference', 'finance formulas', 'TVM formulas', 'CAPM formula', 'WACC formula', 'Black-Scholes', 'bond duration', 'NPV formula', 'IRR formula', 'PPP formula', 'IRP formula', 'statistics formulas', 'regression formula']
+when_to_use: ['formula sheet', 'formula reference', 'finance formulas', 'TVM formulas', 'CAPM formula', 'WACC formula', 'Black-Scholes', 'bond duration', 'NPV formula', 'IRR formula', 'PPP formula', 'IRP formula', 'statistics formulas', 'regression formula']
 ---
 
 # Formula Reference
